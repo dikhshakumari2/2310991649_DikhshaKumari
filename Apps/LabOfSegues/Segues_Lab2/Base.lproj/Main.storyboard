@@ -54,6 +54,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="1BT-ev-VPa"/>
+                    <connections>
+                        <outlet property="usernameTextfield" destination="28d-oO-2Az" id="ujd-xK-PK9"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
