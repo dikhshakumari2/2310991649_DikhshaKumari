@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Practice_DataPassing
+//  EventDraft_DataPassing
 //
-//  Created by Student on 11/08/25.
+//  Created by Student on 12/08/25.
 //
 
 import UIKit

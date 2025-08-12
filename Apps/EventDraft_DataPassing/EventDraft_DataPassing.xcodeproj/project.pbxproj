@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3FDC0D572E49AC8B000A6118 /* Practice_DataPassing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Practice_DataPassing.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FA68CCB2E4B09AE00B0630D /* EventDraft_DataPassing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EventDraft_DataPassing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3FDC0D692E49AC8C000A6118 /* Exceptions for "Practice_DataPassing" folder in "Practice_DataPassing" target */ = {
+		3FA68CDD2E4B09B000B0630D /* Exceptions for "EventDraft_DataPassing" folder in "EventDraft_DataPassing" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 3FDC0D562E49AC8B000A6118 /* Practice_DataPassing */;
+			target = 3FA68CCA2E4B09AE00B0630D /* EventDraft_DataPassing */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3FDC0D592E49AC8B000A6118 /* Practice_DataPassing */ = {
+		3FA68CCD2E4B09AE00B0630D /* EventDraft_DataPassing */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				3FDC0D692E49AC8C000A6118 /* Exceptions for "Practice_DataPassing" folder in "Practice_DataPassing" target */,
+				3FA68CDD2E4B09B000B0630D /* Exceptions for "EventDraft_DataPassing" folder in "EventDraft_DataPassing" target */,
 			);
-			path = Practice_DataPassing;
+			path = EventDraft_DataPassing;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3FDC0D542E49AC8B000A6118 /* Frameworks */ = {
+		3FA68CC82E4B09AE00B0630D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3FDC0D4E2E49AC8B000A6118 = {
+		3FA68CC22E4B09AE00B0630D = {
 			isa = PBXGroup;
 			children = (
-				3FDC0D592E49AC8B000A6118 /* Practice_DataPassing */,
-				3FDC0D582E49AC8B000A6118 /* Products */,
+				3FA68CCD2E4B09AE00B0630D /* EventDraft_DataPassing */,
+				3FA68CCC2E4B09AE00B0630D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3FDC0D582E49AC8B000A6118 /* Products */ = {
+		3FA68CCC2E4B09AE00B0630D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3FDC0D572E49AC8B000A6118 /* Practice_DataPassing.app */,
+				3FA68CCB2E4B09AE00B0630D /* EventDraft_DataPassing.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3FDC0D562E49AC8B000A6118 /* Practice_DataPassing */ = {
+		3FA68CCA2E4B09AE00B0630D /* EventDraft_DataPassing */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3FDC0D6A2E49AC8C000A6118 /* Build configuration list for PBXNativeTarget "Practice_DataPassing" */;
+			buildConfigurationList = 3FA68CDE2E4B09B000B0630D /* Build configuration list for PBXNativeTarget "EventDraft_DataPassing" */;
 			buildPhases = (
-				3FDC0D532E49AC8B000A6118 /* Sources */,
-				3FDC0D542E49AC8B000A6118 /* Frameworks */,
-				3FDC0D552E49AC8B000A6118 /* Resources */,
+				3FA68CC72E4B09AE00B0630D /* Sources */,
+				3FA68CC82E4B09AE00B0630D /* Frameworks */,
+				3FA68CC92E4B09AE00B0630D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3FDC0D592E49AC8B000A6118 /* Practice_DataPassing */,
+				3FA68CCD2E4B09AE00B0630D /* EventDraft_DataPassing */,
 			);
-			name = Practice_DataPassing;
+			name = EventDraft_DataPassing;
 			packageProductDependencies = (
 			);
-			productName = Practice_DataPassing;
-			productReference = 3FDC0D572E49AC8B000A6118 /* Practice_DataPassing.app */;
+			productName = EventDraft_DataPassing;
+			productReference = 3FA68CCB2E4B09AE00B0630D /* EventDraft_DataPassing.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3FDC0D4F2E49AC8B000A6118 /* Project object */ = {
+		3FA68CC32E4B09AE00B0630D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					3FDC0D562E49AC8B000A6118 = {
+					3FA68CCA2E4B09AE00B0630D = {
 						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = 3FDC0D522E49AC8B000A6118 /* Build configuration list for PBXProject "Practice_DataPassing" */;
+			buildConfigurationList = 3FA68CC62E4B09AE00B0630D /* Build configuration list for PBXProject "EventDraft_DataPassing" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 3FDC0D4E2E49AC8B000A6118;
+			mainGroup = 3FA68CC22E4B09AE00B0630D;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 3FDC0D582E49AC8B000A6118 /* Products */;
+			productRefGroup = 3FA68CCC2E4B09AE00B0630D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3FDC0D562E49AC8B000A6118 /* Practice_DataPassing */,
+				3FA68CCA2E4B09AE00B0630D /* EventDraft_DataPassing */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3FDC0D552E49AC8B000A6118 /* Resources */ = {
+		3FA68CC92E4B09AE00B0630D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3FDC0D532E49AC8B000A6118 /* Sources */ = {
+		3FA68CC72E4B09AE00B0630D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		3FDC0D6B2E49AC8C000A6118 /* Debug */ = {
+		3FA68CDF2E4B09B000B0630D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -146,7 +146,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Practice_DataPassing/Info.plist;
+				INFOPLIST_FILE = EventDraft_DataPassing/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -157,7 +157,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dikhsha.Practice-DataPassing";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dikhsha.EventDraft-DataPassing";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -165,7 +165,7 @@
 			};
 			name = Debug;
 		};
-		3FDC0D6C2E49AC8C000A6118 /* Release */ = {
+		3FA68CE02E4B09B000B0630D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -173,7 +173,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Practice_DataPassing/Info.plist;
+				INFOPLIST_FILE = EventDraft_DataPassing/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -184,7 +184,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dikhsha.Practice-DataPassing";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dikhsha.EventDraft-DataPassing";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -192,7 +192,7 @@
 			};
 			name = Release;
 		};
-		3FDC0D6D2E49AC8C000A6118 /* Debug */ = {
+		3FA68CE12E4B09B000B0630D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -255,7 +255,7 @@
 			};
 			name = Debug;
 		};
-		3FDC0D6E2E49AC8C000A6118 /* Release */ = {
+		3FA68CE22E4B09B000B0630D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -314,25 +314,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3FDC0D522E49AC8B000A6118 /* Build configuration list for PBXProject "Practice_DataPassing" */ = {
+		3FA68CC62E4B09AE00B0630D /* Build configuration list for PBXProject "EventDraft_DataPassing" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3FDC0D6D2E49AC8C000A6118 /* Debug */,
-				3FDC0D6E2E49AC8C000A6118 /* Release */,
+				3FA68CE12E4B09B000B0630D /* Debug */,
+				3FA68CE22E4B09B000B0630D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3FDC0D6A2E49AC8C000A6118 /* Build configuration list for PBXNativeTarget "Practice_DataPassing" */ = {
+		3FA68CDE2E4B09B000B0630D /* Build configuration list for PBXNativeTarget "EventDraft_DataPassing" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3FDC0D6B2E49AC8C000A6118 /* Debug */,
-				3FDC0D6C2E49AC8C000A6118 /* Release */,
+				3FA68CDF2E4B09B000B0630D /* Debug */,
+				3FA68CE02E4B09B000B0630D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3FDC0D4F2E49AC8B000A6118 /* Project object */;
+	rootObject = 3FA68CC32E4B09AE00B0630D /* Project object */;
 }
